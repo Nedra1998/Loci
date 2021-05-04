@@ -19,7 +19,7 @@ $ npm install -g loci
 $ loci COMMAND
 running command...
 $ loci (-v|--version|version)
-loci/0.1.0 linux-x64 node-v16.0.0
+loci/0.2.0 linux-x64 node-v16.0.0
 $ loci --help [COMMAND]
 USAGE
   $ loci COMMAND
